@@ -1,4 +1,4 @@
-- 🦋 Hi, I’m @samppreethaa.
+-  Hi, I’m @samppreethaa.
 - 🏫I have done my schooling at SARATHA HIGHER SECONDARY with 85.5%.
 - 🏢 Ongoing my BE at BANNARI AMMAN INSTITUTION OF TECHNOLOGY(2023-2027).
 - 🌱 I’m currently learning BE(ELECTRONICS AND INSTRUMENTATION ENGINEERING).
